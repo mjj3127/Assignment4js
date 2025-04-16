@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Insert student name and ID
+
     const studentInfo = document.getElementById("student-info");
     studentInfo.textContent = "Student ID: 200594567 | Name: Mariya Jemy";
   
